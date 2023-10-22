@@ -1,0 +1,51 @@
+.container  {
+    background-color:#2F303A;
+    color: white;
+    font-size:2rem;
+    height: 400px;
+    width: 2500px;
+}
+.center {
+    text-align: center;
+    /*vertical-align: middle;
+    display: table-cell; */
+   /* line-height: 400px; */
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.box{
+    display: flex;
+}
+div{
+ width: 25%;
+ height: 200px;
+    display: inline;
+}
+.box-1 {
+    font-size: xx-large;
+    position: relative;
+    left:50px;
+}
+.box-2{
+    font-size: xx-large;
+
+    position: relative;
+    left:150px;
+
+}
+.box-3{
+    font-size: xx-large;
+    position: relative;
+    left:400px;
+}
+.box-4{
+    font-size: xx-large;                                                                                                                                                                                                                            
+    position:relative;
+    left:600px;
+}
+.box-5{
+    font-size: xx-large;
+    position: relative;
+}
